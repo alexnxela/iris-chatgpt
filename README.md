@@ -3,7 +3,7 @@
 This is the easiest assistant for accessing chatgpt
 
 ## Example of use
-> USER>w ##class(dc.prettygpt.main).prompt("please return random name")
+> USER>w ##class(dc.irisprettygpt.main).prompt("please return random name")
 >> Alex
 
 ## Setup
