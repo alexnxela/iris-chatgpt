@@ -1,4 +1,4 @@
-Class dc.irischatgpt.main
+Class dc.irisprettygpt.main
 {
 
 ClassMethod prompt(p As %String = "", k As %String = "") As %String [ Language = python ]
